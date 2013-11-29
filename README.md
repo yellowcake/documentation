@@ -9,7 +9,7 @@
 
 ## Sommaire
 
-* [Front-end code standards](./front-end-code-standards.html) *(HTML, CSS et JS)*
+* [Front-end code standards](./front-end-code-standards.md) *(HTML, CSS et JS)*
 * [Back-end code standards](#) *(TODO)*
 * [Utilisation de GIT](#) *(TODO)*
 * [Workflow de production](#) *(TODO)*
