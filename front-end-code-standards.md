@@ -1,4 +1,4 @@
-# ![image](./images/yellowcake.png) [DOCS](./) : Front-end Code Standards
+# Front-end Code Standards
 
 > * **Date :** 2013
 * **Auteur :** David COLIN, front-end developer @[Yellowcake](http://www.yellowcake.net)
@@ -8,7 +8,7 @@
 > Ce document contient les règles de codage et les bonnes pratiques adoptées par l'agence Yellowcake pour l'intégration et le développement d'applications web. Son but est l'uniformisation du code et l'amélioration du travail collaboratif.
 
 
-# ![image](./images/html5-performance.png) Pratiques générales
+# Pratiques générales
 
 ## Encodage
 
@@ -66,7 +66,7 @@ a {
 
 * * *
 
-# ![image](./images/html5-markup.png) HTML
+# HTML
 
 ## Doctype
 
@@ -178,19 +178,12 @@ Inutile de spécifier l'attribut « type » sur les balises `<script>` (à moins
 
 * * *
 
-# ![image](./images/html5-css.png) CSS
+# CSS
 
 @ TODO
 
 * * *
 
-# ![image](./images/html5-js.png) JavaScript
+# JavaScript
 
 @ TODO
-
-<!-- Highlight JS -->
-<link rel="stylesheet" href="http://softwaremaniacs.org/media/soft/highlight/styles/monokai.css">
-<script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
